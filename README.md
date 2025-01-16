@@ -1,10 +1,11 @@
 # Windhawk-Mod-Magnifier
 Adds a magnifier window above the taskbar with the same width and height.
 
- # Magnifier Mod
+## What is Windhawk: https://windhawk.net
+### Windhawk: The customization marketplace for Windows and programs
 
 ## Overview
-The Magnifier Mod adds a magnifier window above the taskbar with the same width and height using the Windows Magnification API. This mod is particularly useful for users who need to zoom in on specific areas of their screen for better visibility.
+The Magnifier Mod adds a magnifier window above the taskbar with the same width and height using the Windows Magnification API. This mod is particularly useful for users who need to zoom in on specific areas of their screen for better visibility. It can also be placed at the top of the screen. Full features list below.
 
 ### Demonstration
 
