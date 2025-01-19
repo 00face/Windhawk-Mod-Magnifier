@@ -2,7 +2,7 @@
 // @id              magnifier-mod
 // @name            Taskbar Magnifier Mod
 // @description     Adds a magnifier window you can customize and dock at the top, bottom, left, or right of your screen.
-// @version         0.5.1
+// @version         0.5.2
 // @author          00face
 // @github          https://github.com/00face
 // @homepage        https://hyaenahyaena.com
