@@ -1,3 +1,5 @@
+![magmod](https://github.com/user-attachments/assets/16b1e278-e705-4e2a-b433-70cd1cc934e0)
+
 # Windhawk-Mod-Magnifier
 Adds a magnifier window above the taskbar with the same width and height.
 
